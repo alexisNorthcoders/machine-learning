@@ -1,0 +1,14 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "machine learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexis",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.16.0"
+  }
+}
